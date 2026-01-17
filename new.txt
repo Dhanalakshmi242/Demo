@@ -1,4 +1,7 @@
 hi hello everyone
+<<<<<<< HEAD
 hiii
 hello
 changes made in master branch
+=======
+>>>>>>> f76d5cb (Changed)
