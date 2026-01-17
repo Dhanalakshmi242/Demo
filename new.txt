@@ -1,2 +1,11 @@
 hi hello everyone
+<<<<<<< HEAD
 hiii
+=======
+<<<<<<< HEAD
+hiii
+hello
+changes made in master branch
+=======
+>>>>>>> f76d5cb (Changed)
+>>>>>>> feature-branch
